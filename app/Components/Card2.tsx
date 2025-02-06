@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Image, Text, Flex } from '@chakra-ui/react';
+import { Container, Image, Text} from '@chakra-ui/react';
 
 interface CardProps {
     imageUrl: string;
